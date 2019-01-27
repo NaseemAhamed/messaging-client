@@ -1,0 +1,21 @@
+2019-01-27 02:40:53 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 02:41:31 INFO  WebSocketEventListener:35 - User Disconnected : Test2
+2019-01-27 03:31:19 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:31:39 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:31:43 INFO  WebSocketEventListener:35 - User Disconnected : Test
+2019-01-27 03:31:52 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:31:56 INFO  WebSocketEventListener:35 - User Disconnected : Test4
+2019-01-27 03:38:11 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:38:41 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:39:06 INFO  WebSocketEventListener:35 - User Disconnected : Test2
+2019-01-27 03:39:12 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:39:21 INFO  WebSocketEventListener:35 - User Disconnected : Test1
+2019-01-27 03:39:23 INFO  WebSocketEventListener:35 - User Disconnected : Test2
+2019-01-27 03:39:24 INFO  WebSocketEventListener:35 - User Disconnected : Test3
+2019-01-27 03:39:31 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:40:07 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:40:59 INFO  WebSocketEventListener:22 - new connection
+2019-01-27 03:42:55 INFO  WebSocketEventListener:35 - User Disconnected : Test2
+2019-01-27 03:43:36 INFO  WebSocketEventListener:35 - User Disconnected : Test 3
+2019-01-27 03:46:15 INFO  WebSocketEventListener:35 - User Disconnected : Test1
+2019-01-27 03:51:17 INFO  WebSocketEventListener:22 - new connection
